@@ -183,3 +183,4 @@ This is what we mean by pass-by-value. A variable makes a copy of the value it h
 - [Wikibooks: Ruby Programming/Syntax/Variables and Constants](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/variable-readme'>About Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Introduction to Variables</p>
